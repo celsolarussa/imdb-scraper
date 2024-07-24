@@ -19,7 +19,6 @@ The scraper saves the scraped data in a JSON file (`processed/data.json`). Each 
         "vote_count": 2900000,
         "more_info_url": "https://www.imdb.com/title/tt0111161/?ref_=chttp_t_1"
     },
-    ...
 ]
 ```
 
